@@ -1,0 +1,33 @@
+name: climatedata
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - xarray
+  - dask
+  - netcdf4
+  - bottleneck
+  - seaborn
+  - scipy
+  - numba
+  - zarr
+  - cftime
+  - matplotlib
+  - cartopy
+  - nc-time-axis
+  - pint
+  - h5netcdf
+  - fsspec
+  - google-cloud-storage
+  - gcsfs
+  - rioxarray
+  - xclim
+  - clisops
+  - geopandas
+  - tqdm
+  - intake-stac
+  - intake-esm 
+  - jupyterlab
+  - ipywidgets
+  - jupyterlab_widgets
