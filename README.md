@@ -1,2 +1,2 @@
-# University of Otago Climate Data and Analytics Workshop (19 May 2022)
+# University of Otago Climate Data and Analytics Workshop (26 May 2022)
 
