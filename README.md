@@ -7,13 +7,12 @@ The introductory slides can be found [here](https://github.com/nicolasfauchereau
 
 In the [notebooks](https://github.com/nicolasfauchereau/climate_data_analytics/tree/main/notebooks) folder, you will find 6 [Jupyter notebooks](https://jupyter.org/): 
 
-- [Jupyter_notebooks.ipynb](https://github.com/nicolasfauchereau/climate_data_analytics/blob/main/notebooks/Jupyter_notebooks.ipynb) is a very brief overview of the Jupyter notebook (and [Jupyter lab](https://jupyter.org/)) development environment 
-- [Pandas_NZ_station_data.ipynb](https://github.com/nicolasfauchereau/climate_data_analytics/blob/main/notebooks/Pandas_NZ_station_data.ipynb) shows how to read a csv files using [pandas](https://pandas.pydata.org/) and perform some basic operations on pandas's [DataFrames](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
-- [reanalyses.ipynb](https://github.com/nicolasfauchereau/climate_data_analytics/blob/main/notebooks/reanalyses.ipynb) shows how to access NCEP/NCAR and ERA5 reanalysis data 'remotely' (i.e. without having to download the data) using [xarray](http://www.xarray.pydata.org)
-- [global_average_temp_NCEP.ipynb](https://github.com/nicolasfauchereau/climate_data_analytics/blob/main/notebooks/global_average_temp_NCEP.ipynb) shows how to calculate global area-weigthed temperature anomalies, using the NCEP/NCAR reanalysis product (1948-2021)
-- [CMIP6_in_the_cloud.ipynb](https://github.com/nicolasfauchereau/climate_data_analytics/blob/main/notebooks/CMIP6_in_the_cloud.ipynb) shows how to access a subset of the CMIP6 climate change model's simulations on the Google cloud.
-- [downscaled_CMIP6.ipynb](https://github.com/nicolasfauchereau/climate_data_analytics/blob/main/notebooks/downscaled_CMIP6.ipynb) provides some pointers towards bias-corrected and downscaled CMIP6 global datasets
-
+- [Jupyter_notebooks.ipynb](https://github.com/nicolasfauchereau/climate_data_analytics/blob/main/notebooks/Jupyter_notebooks.ipynb) is a very brief overview of the Jupyter notebook (and [Jupyter lab](https://jupyter.org/)) development environment  
+- [Pandas_NZ_station_data.ipynb](https://github.com/nicolasfauchereau/climate_data_analytics/blob/main/notebooks/Pandas_NZ_station_data.ipynb)   shows how to read a csv files using [pandas](https://pandas.pydata.org/) and perform some basic operations on pandas's [DataFrames](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)  
+- [reanalyses.ipynb](https://github.com/nicolasfauchereau/climate_data_analytics/blob/main/notebooks/reanalyses.ipynb) shows how to access NCEP/NCAR and ERA5 reanalysis data 'remotely' (i.e. without having to download the data) using [xarray](http://www.xarray.pydata.org)  
+- [global_average_temp_NCEP.ipynb](https://github.com/nicolasfauchereau/climate_data_analytics/blob/main/notebooks/global_average_temp_NCEP.ipynb) shows how to calculate global area-weigthed temperature anomalies, using the NCEP/NCAR reanalysis product (1948-2021)  
+- [CMIP6_in_the_cloud.ipynb](https://github.com/nicolasfauchereau/climate_data_analytics/blob/main/notebooks/CMIP6_in_the_cloud.ipynb) shows how to access a subset of the CMIP6 climate change model's simulations on the Google cloud  
+- [downscaled_CMIP6.ipynb](https://github.com/nicolasfauchereau/climate_data_analytics/blob/main/notebooks/downscaled_CMIP6.ipynb) provides some pointers towards bias-corrected and downscaled CMIP6 global datasets  
 
 ---- 
 ### creating a Python environment with the required packages 
