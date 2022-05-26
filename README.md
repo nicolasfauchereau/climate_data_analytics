@@ -2,7 +2,7 @@
 
 This github repository contains material for an introductory workshop on using 
 the Python scientific 'ecosystem' to access and analyse climate data, given for the 
-He Kaupapa Hononga and Otago Climate Change Postgraduate Network (OCCPN). 
+[He Kaupapa Hononga](https://www.otago.ac.nz/he-kaupapa-hononga/index.html) and Otago Climate Change Postgraduate Network (OCCPN). 
 
 The introductory slides can be found [here](https://github.com/nicolasfauchereau/climate_data_analytics/blob/main/slides/climate_data_workshop.pdf) 
 
